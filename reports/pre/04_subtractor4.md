@@ -36,4 +36,4 @@ VS Code 새 창에서 workspace를 열고 slang-server와 VaporView를 활성화
 
 ## 보드 실험 계획
 
-DIP1~4(a[3:0]), DIP5~8(b[3:0]), LED1(bor), LED2~5(d[3:0]), LVCMOS33입니다. Vivado에서 같은 TB를 실행한 다음 bit를 생성하고 하드웨어에 주입합니다. 동일 값을 설정했을 때 bor LED가 꺼져 있는지 확인하고, b를 1 크게 조작했을 때 bor LED1이 켜지는 현상을 사진·영상에 담을 계획입니다.
+DIP1\~4(a[3:0]), DIP5\~8(b[3:0]), LED1(bor), LED2\~5(d[3:0]), LVCMOS33입니다. Vivado에서 같은 TB를 실행한 다음 bit를 생성하고 하드웨어에 주입합니다. 동일 값을 설정했을 때 bor LED가 꺼져 있는지 확인하고, b를 1 크게 조작했을 때 bor LED1이 켜지는 현상을 사진·영상에 담을 계획입니다.

@@ -20,7 +20,7 @@ Close Simulation → Run Synthesis → Run Implementation → Generate Bitstream
 
 ## 보드 기록·촬영 상태
 
-생성된 .bit를 Spartan-7 보드에 프로그래밍했습니다. DIP1~4(a), DIP5~8(b) 입력을 설정하고 LED1(bor), LED2~5(d[3:0])의 출력을 실측했습니다. 
+생성된 .bit를 Spartan-7 보드에 프로그래밍했습니다. DIP1\~4(a), DIP5\~8(b) 입력을 설정하고 LED1(bor), LED2~5(d[3:0])의 출력을 실측했습니다. 
 
 | 조건(a-b) | 시뮬레이션 bor,d | 실측 bor,d | 사진 |
 |---|---|---|---|
